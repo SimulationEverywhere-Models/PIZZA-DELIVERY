@@ -1,0 +1,5 @@
+00:00:00:050 Abrir_m 1
+00:00:05:000 Recibe_ent_m 2
+00:00:15:000 Atiende_m 3
+00:00:20:000 Recibe_ent_m 3
+00:00:35:000 Cerrar_m 1

@@ -1,0 +1,7 @@
+00:00:00:010 abrir_uc 1
+00:00:08:000 atiende_uc 1
+00:00:13:000 atiende_uc 2
+00:00:20:000 atiende_uc 3
+00:00:30:000 recibe_ent_uc 2
+00:00:48:000 recibe_ent_uc 3
+00:00:50:000 cerrar_uc 1

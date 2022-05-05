@@ -1,0 +1,11 @@
+00:00:00:050 lista_ll_m 1
+00:00:05:000 ocupada_ent_m 1
+00:00:05:030 dist_out_m 2
+00:00:05:030 libre_m_ent 1
+00:00:15:000 ocupado_m 1
+00:00:17:000 libre_m 1
+00:00:17:030 manda_pedido 3
+00:00:20:000 ocupada_ent_m 1
+00:00:20:030 dist_out_m 3
+00:00:20:030 libre_m_ent 1
+00:00:35:000 cerrado_m 1

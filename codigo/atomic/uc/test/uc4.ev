@@ -1,0 +1,10 @@
+00:00:01:000 abrir_uc 1
+00:00:02:000 atiende_uc 2
+00:00:15:000 atiende_uc 3
+00:00:32:000 recibe_ent_uc 2
+00:00:36:000 moto_ocupada_uc 1
+00:00:38:000 atiende_uc 4
+00:00:43:000 recibe_ent_uc 4
+00:00:52:000 moto_libre_uc 1
+00:00:55:000 recibe_ent_uc 3
+00:00:60:000 cerrar_uc 1

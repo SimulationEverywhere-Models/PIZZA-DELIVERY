@@ -1,0 +1,16 @@
+00:00:05:000 lista_ll_uc 1
+00:00:08:000 cerrado_uc 1
+00:00:12:000 ocupada_ent_uc 1
+00:00:12:030 dist_out_uc 1
+00:00:12:030 libre_uc_ent 1
+00:00:22:000 ocupada_ent_uc 1
+00:00:22:030 dist_out_uc 2
+00:00:22:030 libre_uc_ent 1
+00:00:35:000 lista_ll_uc 1
+00:00:40:000 ocupado_uc 1
+00:00:42:000 encolar_p 5
+00:00:42:000 libre_uc 1
+00:00:53:000 cerrado_uc 1
+00:00:55:000 ocupada_ent_uc 1
+00:00:55:030 dist_out_uc 5
+00:00:55:030 libre_uc_ent 1
