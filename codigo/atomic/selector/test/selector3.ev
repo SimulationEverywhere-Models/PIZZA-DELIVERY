@@ -1,0 +1,17 @@
+00:00:01:000 Carga_in 1
+00:00:02:000 Carga_in 2
+00:00:03:000 Esperar_m1 1
+00:00:04:000 Carga_in 3
+00:00:05:000 Carga_in 4
+00:00:06:000 Esperar_m2 1
+00:00:07:000 Esperar_m3 1
+00:00:08:000 Carga_in 5
+00:00:09:000 Carga_in 6
+00:00:10:000 Esperar_m4 1
+00:00:14:000 Lista_m3 1
+00:00:15:000 Carga_in 7
+00:00:16:000 Carga_in 8
+00:00:17:000 Carga_in 9
+00:00:18:000 Esperar_m3 1
+00:00:19:000 Lista_m3 1
+00:00:20:000 Carga_in 10
